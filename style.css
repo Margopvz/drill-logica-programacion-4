@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: #eae5db;
+}
+h1 {
+    color: rgba(38, 39, 15, 0.722);
+}
+
+input, button {
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #333;
+}
+label {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: #333;
+    font-weight: bold;
+}
